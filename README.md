@@ -20,3 +20,7 @@ You're all done open example.php in your browser and search for an account! 🤳
 MIT License
 
 Copyright (c) 2019 Baran
+
+---
+
+> **Disclaimer**<a name="disclaimer" />: Please Note that this is a research project. I am by no means responsible for any usage of this tool. Use on your own behalf. I'm also not responsible if your accounts get banned due to extensive use of this tool.
